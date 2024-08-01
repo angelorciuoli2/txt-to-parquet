@@ -1,1 +1,1 @@
-Just a simple script to convert txt files into parquet files
+Just a simple python script to convert txt files into parquet files
